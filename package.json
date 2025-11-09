@@ -1,0 +1,8 @@
+{
+  "name": "pulsemarket",
+  "version": "1.0.0",
+  "description": "E-Marketing Site",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.18.0", "mongoose": "^7.0.0" }
+}
